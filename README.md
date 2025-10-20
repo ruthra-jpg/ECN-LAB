@@ -24,22 +24,13 @@
 
 **CIRCUIT DIAGRAM:**
 
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2025-10-18 at 11 00 52_9fe16691](https://github.com/user-attachments/assets/f196f95b-0c6c-40ed-9da7-8ed524ae985f)
 
 **PROCEDURE:**
 
  *1.Give connections as per the circuit diagram.*
 
- *2.Switch ON the supply, vary the RPS (Regulated Power Supply) and set a particular input voltage.*
+ *2.Switch ON the supply, vary the RPS (Regulated Power Supply) and set a particular input voltage.* 
 	
  *3.Note down the readings of ammeters and voltmeters and tabulate them.*
 	
