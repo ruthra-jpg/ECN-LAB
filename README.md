@@ -24,15 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2025-10-18 at 11 00 52_3419507b](https://github.com/user-attachments/assets/ccbf8745-5e2a-4bdd-97ad-9f384e41d378)
 
 
 **PROCEDURE:**
